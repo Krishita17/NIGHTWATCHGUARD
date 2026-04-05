@@ -1,4 +1,4 @@
-# NightWatchGaurd — SOMNI‑Guard Sleep Monitor
+# NightWatchGaurd — SOMNI‑Guard Sleep Monitor( THIS PROJECT IS DONE IN COLLABORATION WITH https://github.com/at0m-b0mb)
 
 > **Educational prototype — not a clinically approved device.**
 > This project is a student exercise in medical‑device architecture,
