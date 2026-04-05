@@ -1,10 +1,8 @@
-# NightWatchGaurd — SOMNI‑Guard Sleep Monitor( THIS PROJECT IS DONE IN COLLABORATION WITH https://github.com/at0m-b0mb)
+# NightWatchGaurd — SOMNI‑Guard Sleep Monitor( THIS PROJECT IS DONE IN COLLABORATION WITH https://github.com/at0m-b0mb, KAILASH PARSHAD)
 
-> **Educational prototype — not a clinically approved device.**
-> This project is a student exercise in medical‑device architecture,
-> security thinking, and embedded firmware design.
 
-**Repository:** [github.com/at0m-b0mb/NightWatchGaurd](https://github.com/at0m-b0mb/NightWatchGaurd)
+
+
 
 ---
 
